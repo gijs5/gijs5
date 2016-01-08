@@ -38,3 +38,12 @@ ul.buttons li {
 	position:absolute;
 	margin:-100px 0 0 0;
 }
+
+#phone {
+	position:relative;
+}
+#phone label {
+	position:absolute;
+	top:0;
+	left:54px;
+}
