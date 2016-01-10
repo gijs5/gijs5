@@ -3,12 +3,12 @@
 	margin:0;
 }
 body {
-	font:18px/22px 'Open Sans', sans-serif;
+	font:18pt/22pt 'Open Sans', sans-serif;
 	color:#666;
 }
 
 h1 {
-	font:60px/70px 'Open Sans', sans-serif;
+	font:60pt/70pt 'Open Sans', sans-serif;
 	letter-spacing:8px;
 	color:#666;
 }
@@ -39,11 +39,6 @@ ul.buttons li {
 	margin:-100px 0 0 0;
 }
 
-#phone {
-	position:relative;
-}
-#phone label {
-	position:absolute;
-	top:0;
-	left:54px;
+@media only screen and (max-width: 768px) {
+
 }

@@ -11,9 +11,9 @@
 	<div class="container">
 		<h1>Gijs Vijfhuizen</h1>
 		<ul class="buttons">
-			<li><a href="mailto:gijs@gijs5.nl" class="fa fa-envelope-o fa-3x"></a></li>
-			<li><a href="https://nl.linkedin.com/pub/gijs-vijfhuizen/5b/455/119" class="fa fa-linkedin-square fa-3x"></a></li>
-			<li id="phone"><a href="#" class="fa fa-phone-square fa-3x"></a><label>0681665176</label></li>
+			<li><a href="mailto:gijs@gijs5.nl"><i class="fa fa-envelope-o"></i> gijs@gijs5.nl</a></li>
+			<li><a href="https://nl.linkedin.com/pub/gijs-vijfhuizen/5b/455/119"><i class="fa fa-linkedin-square"></i> LinkedIn</a></li>
+			<li><a href="tel:+31681665176"><i class="fa fa-phone"></i> 0681665176</a></li>
 		</ul>
 	</div>
 
